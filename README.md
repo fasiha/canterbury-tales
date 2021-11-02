@@ -30,22 +30,22 @@ Of Engelond, to Caunterbury they <ruby>wende<rt>go</rt></ruby>,\
 The holy blisful martir for to <ruby>seke<rt>seek</rt></ruby>,\
 That <ruby>hem<rt>they</rt></ruby> hath <ruby>holpen<rt>helped</rt></ruby>, <ruby>whan<rt>when</rt></ruby> that they were <ruby>seke<rt>sick</rt></ruby>.
 
-  Bifel that, in that seson on a day,\
+  <ruby>Bifel<rt>Befell</rt></ruby> that, in that <ruby>seson<rt>season</rt></ruby> on a day,\
 In Southwerk at the Tabard as I lay\
-Redy to wenden on my pilgrimage\
-To Caunterbury with ful devout corage,\
-At night was come in-to that hostelrye\
-Wel nyne and twenty in a companye,\
-Of sondry folk, by aventure y-falle\
-In felawshipe, and pilgrims were they alle,\
-That toward Caunterbury wolden ryde;\
-The chambres and the stables weren wyde,\
-And wel we weren esed atte beste.\
-And shortly, whan the sonne was to reste,\
-So hadde I spoken with hem everichon,\
-That I was of hir felawshipe anon,\
-And made forward erly for to ryse,\
-To take our wey, ther as I yow devyse.
+<ruby>Redy<rt>ready</rt></ruby> to <ruby>wenden<rt>go</rt></ruby> on my pilgrimage\
+To Caunterbury with ful devout <ruby>corage<rt>heart</rt></ruby>,\
+At night was come in-to that <ruby>hostelrye<rt>hostel</rt></ruby>\
+Wel <ruby>nyne<rt>nine</rt></ruby> and twenty in a companye,\
+Of <ruby>sondry<rt>sundry</rt></ruby> folk, by <ruby>aventure<rt>change</rt></ruby> <ruby>y-falle<rt>fallen</rt></ruby>\
+In <ruby>felawshipe<rt>fellowship</rt></ruby>, and pilgrims were they <ruby>alle<rt>all</rt></ruby>,\
+That toward Caunterbury <ruby>wolden<rt>would</rt></ruby> <ruby>ryde<rt>ride</rt></ruby>;\
+The <ruby>chambres<rt>chambers</rt></ruby> and the stables <ruby>weren<rt>were</rt></ruby> <ruby>wyde<rt>wide</rt></ruby>,\
+And <ruby>wel<rt>well</rt></ruby> we <ruby>weren<rt>were</rt></ruby> <ruby>esed<rt>[at ease](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED14462/)</rt></ruby> <ruby>atte<rt>[in manner](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED2734/)</rt></ruby> <ruby>beste<rt>best</rt></ruby>.\
+And shortly, whan the <ruby>sonne<rt>sun</rt></ruby> was to <ruby>reste<rt>rest</rt></ruby>,\
+So <ruby>hadde<rt>had</rt></ruby> I spoken with <ruby>hem<rt>them</rt></ruby> <ruby>everichon<rt>every which one</rt></ruby>,\
+That I was of <ruby>hir<rt>their</rt></ruby> <ruby>felawshipe<rt>fellowship</rt></ruby> <ruby>anon<rt>soon</rt></ruby>,\
+And made <ruby>forward<rt>[agreement](https://en.wiktionary.org/wiki/foreward#Etymology_2_2)</rt></ruby> <ruby>erly<rt>early</rt></ruby> for to <ruby>ryse<rt>rise</rt></ruby>,\
+To take our <ruby>wey<rt>way</rt></ruby>, <ruby>ther<rt>there</rt></ruby> as I <ruby>yow<rt>you</rt></ruby> <ruby>devyse<rt>advise?</rt></ruby>.
 
   But natheles, whyl I have tyme and space,\
 Er that I ferther in this tale pace,\
