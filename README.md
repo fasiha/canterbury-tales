@@ -1,3 +1,10 @@
+# Chaucer's Canterbury Tales
+Original from [Wikisource](https://en.wikisource.org/wiki/Canterbury_Tales_(ed._Skeat)): Walter William Skeat, ed., *The Complete Works of Geoffrey Chaucer*, Vol. IV. (1900).
+
+Ruby annotations my own ([@fasiha](https://fasiha.github.io/#contact)).
+
+## General Prologue
+
 <ruby>Whan<rt>When</rt></ruby> that <ruby>Aprille<rt>April</rt></ruby> with his <ruby>shoures<rt>showers</rt></ruby> <ruby>sote<rt>sweet</rt></ruby>\
 The <ruby>droghte<rt>drought</rt></ruby> of <ruby>Marche<rt>March</rt></ruby> hath <ruby>perced<rt>pierced</rt></ruby> to the <ruby>rote<rt>root</rt></ruby>,\
 And bathed every <ruby>veyne<rt>[vein](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED50805/), vine?</rt></ruby> in <ruby>swich<rt>such</rt></ruby> <ruby>licour<rt>[liquid](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED25429/), liquor</rt></ruby>,\
