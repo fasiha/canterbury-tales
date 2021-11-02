@@ -40,7 +40,7 @@ Of <ruby>sondry<rt>sundry</rt></ruby> folk, by <ruby>aventure<rt>change</rt></ru
 In <ruby>felawshipe<rt>fellowship</rt></ruby>, and pilgrims were they <ruby>alle<rt>all</rt></ruby>,\
 That toward Caunterbury <ruby>wolden<rt>would</rt></ruby> <ruby>ryde<rt>ride</rt></ruby>;\
 The <ruby>chambres<rt>chambers</rt></ruby> and the stables <ruby>weren<rt>were</rt></ruby> <ruby>wyde<rt>wide</rt></ruby>,\
-And <ruby>wel<rt>well</rt></ruby> we <ruby>weren<rt>were</rt></ruby> <ruby>esed<rt>[at ease](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED14462/)</rt></ruby> <ruby>atte<rt>[in manner](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED2734/)</rt></ruby> <ruby>beste<rt>best</rt></ruby>.\
+And <ruby>wel<rt>well</rt></ruby> we <ruby>weren<rt>were</rt></ruby> <ruby>esed<rt>[accomodated](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED14464/)</rt></ruby> <ruby>atte<rt>[in the (8a)](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED2734/)</rt></ruby> <ruby>beste<rt>best</rt></ruby>.\
 And shortly, whan the <ruby>sonne<rt>sun</rt></ruby> was to <ruby>reste<rt>rest</rt></ruby>,\
 So <ruby>hadde<rt>had</rt></ruby> I spoken with <ruby>hem<rt>them</rt></ruby> <ruby>everichon<rt>every which one</rt></ruby>,\
 That I was of <ruby>hir<rt>their</rt></ruby> <ruby>felawshipe<rt>fellowship</rt></ruby> <ruby>anon<rt>soon</rt></ruby>,\
