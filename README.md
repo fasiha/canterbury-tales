@@ -3,6 +3,12 @@ Original from [Wikisource](https://en.wikisource.org/wiki/Canterbury_Tales_(ed._
 
 Ruby annotations my own ([@fasiha](https://fasiha.github.io/#contact)).
 
+Listen along!
+- [CantApp](http://www.sd-editions.com/CantApp/GP/), edited by Richard North, Barbara Bordalejo, Terry Jones and Peter Robinson, performed by Lina Gibbings. (See [University of Saskatchewan's press release](https://news.usask.ca/articles/research/2020/canterbury-tales-is-first-major-literary-work-developed-as-an-app.php).)
+- ["General Prologue of the Canterbury Tales"](https://youtu.be/nMsp8xHkRnA?t=324) on YouTube, performed by Colin Gibbings, a dramatic performance by the same Saskatchewan-led group as above. See [performance notes](https://artsandscience.usask.ca/english/research/performances/the-general-prologue-in-historically-based-performance.php).
+- ["Canterbury Tales 1–541 read aloud by Murray McGillivray"](https://vimeo.com/56602418) on Vimeo.
+
+
 ## General Prologue
 
 <ruby>Whan<rt>When</rt></ruby> that <ruby>Aprille<rt>April</rt></ruby> with his <ruby>shoures<rt>showers</rt></ruby> <ruby>sote<rt>sweet</rt></ruby>\
