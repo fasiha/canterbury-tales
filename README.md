@@ -8,21 +8,21 @@ Ruby annotations my own ([@fasiha](https://fasiha.github.io/#contact)).
 <ruby>Whan<rt>When</rt></ruby> that <ruby>Aprille<rt>April</rt></ruby> with his <ruby>shoures<rt>showers</rt></ruby> <ruby>sote<rt>sweet</rt></ruby>\
 The <ruby>droghte<rt>drought</rt></ruby> of <ruby>Marche<rt>March</rt></ruby> hath <ruby>perced<rt>pierced</rt></ruby> to the <ruby>rote<rt>root</rt></ruby>,\
 And bathed every <ruby>veyne<rt>[vein](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED50805/), vine?</rt></ruby> in <ruby>swich<rt>such</rt></ruby> <ruby>licour<rt>[liquid](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED25429/), liquor</rt></ruby>,\
-Of which vertu engendred is the flour;\
-Whan Zephirus eek with his swete breeth\
-Inspired hath in every holt and heeth\
-The tendre croppes, and the yonge sonne\
-Hath in the Ram his halfe cours y-ronne,\
-And smale fowles maken melodye,\
-That slepen al the night with open yë,\
-(So priketh hem nature in hir corages):\
-Than longen folk to goon on pilgrimages\
-(And palmers for to seken straunge strondes)\
-To ferne halwes, couthe in sondry londes;\
-And specially, from every shires ende\
-Of Engelond, to Caunterbury they wende,\
-The holy blisful martir for to seke,\
-That hem hath holpen, whan that they were seke.
+Of which <ruby>vertu<rt>力, [power](https://en.wikipedia.org/wiki/Virt%C3%B9)</rt></ruby> engendred is the <ruby>flour<rt>flower</rt></ruby>;\
+Whan Zephirus <ruby>eek<rt>also</rt></ruby> with his <ruby>swete<rt>sweet</rt></ruby> <ruby>breeth<rt>breath</rt></ruby>\
+Inspired hath in every <ruby>holt<rt>[wood](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED21067/)</rt></ruby> and <ruby>heeth<rt>heath</rt></ruby>\
+The tendre <ruby>croppes<rt>[greens](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED10436/)</rt></ruby>, and the <ruby>yonge<rt>young</rt></ruby> <ruby>sonne<rt>sun</rt></ruby>\
+Hath in the <ruby>Ram<rt>[Aries](https://en.wikipedia.org/wiki/Aries_(constellation))</rt></ruby> his halfe cours <ruby>y-ronne<rt>run</rt></ruby>,\
+And <ruby>smale<rt>small</rt></ruby> <ruby>fowles<rt>birds</rt></ruby> <ruby>maken<rt>make</rt></ruby> melodye,\
+That <ruby>slepen<rt>sleep</rt></ruby> <ruby>al<rt>all</rt></ruby> the night with open <ruby>yë<rt>eye</rt></ruby>,\
+(So <ruby>priketh<rt>stirs</rt></ruby> <ruby>hem<rt>them</rt></ruby> nature in <ruby>hir<rt>their</rt></ruby> <ruby>corages<rt>hearts</rt></ruby>):\
+<ruby>Than<rt>Then</rt></ruby> <ruby>longen<rt>long</rt></ruby> folk to <ruby>goon<rt>go</rt></ruby> on pilgrimages\
+(And <ruby>palmers<rt>pilgrims</rt></ruby> for to <ruby>seken<rt>seek</rt></ruby> <ruby>straunge<rt>[unfamiliar](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED43218/)</rt></ruby> <ruby>strondes<rt>shores</rt></ruby>)\
+To <ruby>ferne<rt>far</rt></ruby> <ruby>halwes<rt>saint shrines</rt></ruby>, <ruby>couthe<rt>known</rt></ruby> in <ruby>sondry<rt>sundry</rt></ruby> <ruby>londes<rt>lands</rt></ruby>;\
+And specially, from every <ruby>shires<rt>shire's</rt></ruby> ende\
+Of Engelond, to Caunterbury they <ruby>wende<rt>go</rt></ruby>,\
+The holy blisful martir for to <ruby>seke<rt>seek</rt></ruby>,\
+That <ruby>hem<rt>they</rt></ruby> hath <ruby>holpen<rt>helped</rt></ruby>, <ruby>whan<rt>when</rt></ruby> that they were <ruby>seke<rt>sick</rt></ruby>.
 
   Bifel that, in that seson on a day,\
 In Southwerk at the Tabard as I lay\
