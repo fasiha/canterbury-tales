@@ -65,34 +65,34 @@ And therto <ruby>hadde<rt>had</rt></ruby> he <ruby>riden<rt>ridden</rt></ruby> (
 As <ruby>wel<rt>well</rt></ruby> in Cristendom as <ruby>hethenesse<rt>heathen lands 🤣</rt></ruby>,\
 And ever honoured for his worthinesse.
 
-  At Alisaundre he was, whan it was wonne;\
-Ful ofte tyme he hadde the bord bigonne\
-Aboven alle naciouns in Pruce.\
-In Lettow hadde he reysed and in Ruce,\
-No Cristen man so ofte of his degree.\
-In Gernade at the sege eek hadde he be\
-Of Algezir, and riden in Belmarye.\
+  At <ruby>Alisaundre<rt>Alexandria</rt></ruby> he was, <ruby>whan<rt>when</rt></ruby> it was <ruby>wonne<rt>won</rt></ruby>;\
+<ruby>Ful<rt>very</rt></ruby> <ruby>ofte<rt>often</rt></ruby> <ruby>tyme<rt>times</rt></ruby> he <ruby>hadde<rt>had</rt></ruby> the <ruby>bord<rt>[feast](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED5533/)</rt></ruby> <ruby>bigonne<rt>begun [4b(d)](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED5533/)</rt></ruby>\
+<ruby>Aboven<rt>risen above</rt></ruby> <ruby>alle<rt>all</rt></ruby> <ruby>naciouns<rt>nations</rt></ruby> in <ruby>Pruce<rt>Prussia</rt></ruby>.\
+In <ruby>Lettow<rt>[Lithuania](https://en.wikipedia.org/wiki/Lettow)</rt></ruby> <ruby>hadde<rt>had</rt></ruby> he <ruby>reysed<rt>[campaigned](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED36574)</rt></ruby> and in <ruby>Ruce<rt>Russia</rt></ruby>,\
+No <ruby>Cristen<rt>Christian</rt></ruby> man so <ruby>ofte<rt>often</rt></ruby> of his <ruby>degree<rt>rank</rt></ruby>.\
+In <ruby>Gernade<rt>Grenada</rt></ruby> at the <ruby>sege<rt>siege</rt></ruby> <ruby>eek<rt>also</rt></ruby> <ruby>hadde<rt>had</rt></ruby> he be\
+Of <ruby>Algezir<rt>[Algeciras](https://en.wikipedia.org/wiki/Algeciras#History)</rt></ruby>, and riden in Belmarye.\
 At Lyeys was he, and at Satalye,\
-Whan they were wonne; and in the Grete See\
-At many a noble aryve hadde he be.\
-At mortal batailles hadde he been fiftene,\
-And foughten for our feith at Tramissene\
-In listes thryes, and ay slayn his foo.\
-This ilke worthy knight had been also\
-Somtyme with the lord of Palatye,\
-Ageyn another hethen in Turkye:\
-And evermore he hadde a sovereyn prys.\
-And though that he were worthy, he was wys,\
-And of his port as meke as is a mayde.\
-He never yet no vileinye ne sayde\
-In al his lyf, un-to no maner wight.\
-He was a verray parfit gentil knight.\
-But for to tellen yow of his array,\
-His hors were gode, but he was nat gay.\
-Of fustian he wered a gipoun\
-Al bismotered with his habergeoun;\
-For he was late y-come from his viage,\
-And wente for to doon his pilgrimage.
+<ruby>Whan<rt>when</rt></ruby> they were <ruby>wonne<rt>won</rt></ruby>; and in the <ruby>Grete See<rt>Mediterranean</rt></ruby>\
+At many a noble <ruby>aryve<rt>army</rt></ruby> <ruby>hadde<rt>had</rt></ruby> he be.\
+At mortal <ruby>batailles<rt>battles</rt></ruby> <ruby>hadde<rt>had</rt></ruby> he been <ruby>fiftene<rt>fifteen</rt></ruby>,\
+And <ruby>foughten<rt>fought</rt></ruby> for our <ruby>feith<rt>faith</rt></ruby> at <ruby>Tramissene<rt>[Tlemcen](https://en.wikipedia.org/wiki/Tlemcen)</rt></ruby>\
+In <ruby>listes<rt>[jousts](https://en.wikipedia.org/wiki/Jousting#Late_Middle_Ages)</rt></ruby> <ruby>thryes<rt>thrice</rt></ruby>, and <ruby>ay<rt>[always](https://en.wiktionary.org/wiki/ay#Adverb)</rt></ruby> <ruby>slayn<rt>slain</rt></ruby> his <ruby>foo<rt>foe</rt></ruby>.\
+This <ruby>ilke<rt>aforementioned</rt></ruby> worthy knight had been also\
+<ruby>Somtyme<rt>sometime</rt></ruby> with the lord of Palatye,\
+<ruby>Ageyn<rt>against</rt></ruby> another <ruby>hethen<rt>heathen</rt></ruby> in Turkye:\
+And evermore he <ruby>hadde<rt>had</rt></ruby> a <ruby>sovereyn<rt>[outstanding, 1b](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED41909/)</rt></ruby> <ruby>prys<rt>reputation</rt></ruby>.\
+And though that he were worthy, he was <ruby>wys<rt>wise</rt></ruby>,\
+And of his <ruby>port<rt>deportment</rt></ruby> as <ruby>meke<rt>meek</rt></ruby> as is a <ruby>mayde<rt>maid</rt></ruby>.\
+He never yet no <ruby>vileinye<rt>wickedness</rt></ruby> <ruby>ne<rt>never</rt></ruby> <ruby>sayde<rt>said</rt></ruby>\
+In <ruby>al<rt>all</rt></ruby> his <ruby>lyf<rt>life</rt></ruby>, <ruby>un-to<rt>unto</rt></ruby> no <ruby>maner wight<rt>man whatever [1c](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED26736/)</rt></ruby>.\
+He was a <ruby>verray<rt>[verily](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED50985/)</rt></ruby> <ruby>parfit<rt>perfect</rt></ruby> <ruby>gentil<rt>noble</rt></ruby> knight.\
+But for to <ruby>tellen<rt>tell</rt></ruby> <ruby>yow<rt>you</rt></ruby> of his <ruby>array<rt>gear</rt></ruby>,\
+His <ruby>hors<rt>horse</rt></ruby> were <ruby>gode<rt>good</rt></ruby>, but he was <ruby>nat<rt>not</rt></ruby> <ruby>gay<rt>[glittering](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED18063/)</rt></ruby>.\
+Of <ruby>fustian<rt>[(a kind of cloth)](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED18022/)</rt></ruby> he <ruby>wered<rt>wore</rt></ruby> a <ruby>gipoun<rt>tunic</rt></ruby>\
+<ruby>Al<rt>all</rt></ruby> <ruby>bismotered<rt>[spattered](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED4848/)</rt></ruby> <ruby>with<rt>by</rt></ruby> his <ruby>habergeoun<rt>armor</rt></ruby>;\
+For he was <ruby>late<rt>recently</rt></ruby> <ruby>y-come<rt>come</rt></ruby> from his <ruby>viage<rt>voyage</rt></ruby>,\
+And <ruby>wente<rt>went</rt></ruby> for to <ruby>doon<rt>do</rt></ruby> his pilgrimage.
 
   With him ther was his sone, a yong Squyer,\
 A lovyere, and a lusty bacheler,\
