@@ -47,22 +47,22 @@ That I was of <ruby>hir<rt>their</rt></ruby> <ruby>felawshipe<rt>fellowship</rt>
 And made <ruby>forward<rt>[agreement](https://en.wiktionary.org/wiki/foreward#Etymology_2_2)</rt></ruby> <ruby>erly<rt>early</rt></ruby> for to <ruby>ryse<rt>rise</rt></ruby>,\
 To take our <ruby>wey<rt>way</rt></ruby>, <ruby>ther<rt>there</rt></ruby> as I <ruby>yow<rt>you</rt></ruby> <ruby>devyse<rt>advise?</rt></ruby>.
 
-  But natheles, whyl I have tyme and space,\
-Er that I ferther in this tale pace,\
-Me thinketh it acordaunt to resoun,\
-To telle yow al the condicioun\
-Of ech of hem, so as it semed me,\
-And whiche they weren, and of what degree;\
-And eek in what array that they were inne:\
-And at a knight than wol I first biginne.
+  But <ruby>natheles<rt>nevertheless</rt></ruby>, <ruby>whyl<rt>while</rt></ruby> I have <ruby>tyme<rt>time</rt></ruby> and space,\
+<ruby>Er<rt>before</rt></ruby> that I <ruby>ferther<rt>further</rt></ruby> in this tale <ruby>pace<rt>[advance](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED32556/)</rt></ruby>,\
+Me thinketh it <ruby>acordaunt<rt>accordant</rt></ruby> to <ruby>resoun<rt>reason</rt></ruby>,\
+To <ruby>telle<rt>tell</rt></ruby> <ruby>yow<rt>you</rt></ruby> <ruby>al<rt>all</rt></ruby> the <ruby>condicioun<rt>situation</rt></ruby>\
+Of <ruby>ech<rt>each</rt></ruby> of <ruby>hem<rt>them</rt></ruby>, so as it <ruby>semed<rt>seemed</rt></ruby> me,\
+And <ruby>whiche<rt>[who](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED52536/)</rt></ruby> they <ruby>weren<rt>were</rt></ruby>, and of what <ruby>degree<rt>[rank](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED10882/)</rt></ruby>;\
+And <ruby>eek<rt>also</rt></ruby> in what <ruby>array<rt>furnishings</rt></ruby> that they were <ruby>inne<rt>in</rt></ruby>:\
+And at a knight <ruby>than<rt>then</rt></ruby> <ruby>wol<rt>will</rt></ruby> I first <ruby>biginne<rt>begin</rt></ruby>.
 
-  A Knight ther was, and that a worthy man,\
-That fro the tyme that he first bigan\
-To ryden out, he loved chivalrye,\
-Trouthe and honour, fredom and curteisye.\
-Ful worthy was he in his lordes werre,\
-And therto hadde he riden (no man ferre)\
-As wel in Cristendom as hethenesse,\
+  A Knight <ruby>ther<rt>there</rt></ruby> was, and that a <ruby>worthy<rt>[noble](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED53482/)</rt></ruby> man,\
+That <ruby>fro<rt>from</rt></ruby> the <ruby>tyme<rt>time</rt></ruby> that he first <ruby>bigan<rt>began</rt></ruby>\
+To <ruby>ryden<rt>ride</rt></ruby> out, he loved chivalrye,\
+<ruby>Trouthe<rt>[loyalty](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED47016/)</rt></ruby> and honour, <ruby>fredom<rt>[nobility, freedom](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED17609/)</rt></ruby> and <ruby>curteisye<rt>[courtly courtesy](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED10060/)</rt></ruby>.\
+<ruby>Ful<rt>full</rt></ruby> worthy was he in his <ruby>lordes<rt>lord's</rt></ruby> <ruby>werre<rt>war</rt></ruby>,\
+And therto <ruby>hadde<rt>had</rt></ruby> he <ruby>riden<rt>ridden</rt></ruby> (no man <ruby>ferre<rt>farther</rt></ruby>)\
+As <ruby>wel<rt>well</rt></ruby> in Cristendom as <ruby>hethenesse<rt>heathen lands 🤣</rt></ruby>,\
 And ever honoured for his worthinesse.
 
   At Alisaundre he was, whan it was wonne;\
